@@ -1,3 +1,3 @@
-module github.com/navarasu/gostrings
+module github.com/honnuanand/gostrings
 
 go 1.14
